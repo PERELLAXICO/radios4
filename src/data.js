@@ -212,6 +212,18 @@ function chillHop() {
 
 
 {
+    name: Tekno Radio",
+    artist: "Free Tekno/Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://player01.teknoradio.org:9000/128kbps.mp3", 
+    active: false,
+},
+
+        
+
+{
     name: "BadBeatRadio",
     artist: "Break Beat",
     cover: "https://breakpirates.com/images/logo.png", 
