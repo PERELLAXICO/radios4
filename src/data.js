@@ -192,6 +192,228 @@ function chillHop() {
             audio: "http://s1-webradio.antenne.de/hits-fuer-kids/stream/mp3?aw_0_1st.playerid=tunein.com",
             active: false,
         },
+
+
+
+{
+    name: "Break Pirates",
+    artist: "Breakbeat Old School",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://bpstream.hostco.de:3000/", 
+    active: false,
+},
+
+
+
+     {
+    name: "24/7 Drum&Bas",
+    artist: "Drum & Bass",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://radio.drums.ro:8000/", 
+    active: false,
+},
+
+
+{
+    name: "Classic R&B",
+    artist: "Hip Hop",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://listen.livestreamingservice.com/181-classicrnb_128k.mp3", 
+    active: false,
+},
+
+
+   {
+    name: "Clssic Hip Hop",
+    artist: "Hip Hop",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://listen.livestreamingservice.com/181-oldschool_128k.mp3", 
+    active: false,
+},
+     
+
+
+{
+    name: "Rap undergorund",
+    artist: "Hip Hop",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://listen.livestreamingservice.com/181-thebox_128k.mp3", 
+    active: false,
+},
+
+
+        
+{
+    name: "Nautic Radio",
+    artist: "Breakcore",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://83.137.145.141:14280/", 
+    active: false,
+},
+
+
+{
+    name: "TL_Gabber",
+    artist: "Gabber",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://stream.technolovers.fm/gabber", 
+    active: false,
+},
+
+
+ {
+    name: "Chill Lounge Radio",
+    artist: "Chillout",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://streaming.radionomy.com/ChillLoungeRadio", 
+    active: false,
+},
+       
+        
+        
+{
+    name: "Ambient Radio",
+    artist: "Chillout",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://uk2.internet-radio.com:8171/", 
+    active: false,
+},
+
+
+{
+    name: "Ambiesphere",
+    artist: "Spiritual/Relaxing",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://uk5.internet-radio.com:8347/", 
+    active: false,
+},
+
+        
+{
+    name: "Pop Lounge Cafe",
+    artist: "Chillout && Lounge",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://listen.smoothjazz.global:8080/lounge.mp3", 
+    active: false,
+},
+
+{
+    name: "Chill Out Zone",
+    artist: "Lounge",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://chilloutzone.stream.laut.fm/chilloutzone?pl=asx&t302=2024-12-16_22-55-07&uuid=44eee177-e9cf-44bf-82fc-6d8c557dd43b", 
+    active: false,
+},
+
+
+
+
+
+
+
+{
+    name: "Ibiza Sonica Radio:",
+    artist: "Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://ibizasonica.stream.flumotion.com/ibizasonica.mp3", 
+    active: false,
+},
+
+{
+    name: "Pure Techno Radio",
+    artist: "Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://stream.laut.fm/pure-techno", 
+    active: false,
+},
+
+
+{
+    name: "Level-1 Radio",
+    artist: "Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://uk2.internet-radio.com:30075/stream", 
+    active: false,
+},
+
+{
+    name: "Move da House",
+    artist: "Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://uk7.internet-radio.com:8000/", 
+    active: false,
+},
+{
+    name: "Dance Uk Radio",
+    artist: "Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://uk2.internet-radio.com:8024/", 
+    active: false,
+},
+
+
+
+
+
+
+
+{
+name: "Christian Industrial Radio",
+artist: "Christian Music",
+cover: "https://example.com/industrial_cover.jpg",
+id: uuidv4(),
+color: ["#FFFFFF", "#FF0000"],
+audio: "https://christianindustrial.net/listen/radio/radio.mp3", 
+active: false,
+},
+
+
+
+
+
+
+        
+
+
+
+
+
+
+        
     ];
 }
 
