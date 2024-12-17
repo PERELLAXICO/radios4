@@ -212,7 +212,7 @@ function chillHop() {
 
 
 {
-    name: Tekno Radio",
+    name:"Tekno Radio",
     artist: "Free Tekno/Techno",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
