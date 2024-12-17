@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Got Radio The 60's",
             artist: "60's",
-            cover: "https://cdn.pixabay.com/photo/2013/11/17/19/33/cars-212238_1280.jpg",
+            cover: "https://cdn.pixabay.com/photo/2016/04/01/12/01/anos-60-1300474_1280.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "http://pureplay.cdnstream1.com/6011_128.mp3",
@@ -26,7 +26,7 @@ function chillHop() {
         {
             name:"Hotmixradio Lounge",
             artist: "Lounge",
-            cover: "https://media.istockphoto.com/id/2171686685/es/vector/empty-room-with-houseplants.jpg?s=1024x1024&w=is&k=20&c=28VRPHvSHk-_DzmqzMtJnl_UR71MShkfjI7-Ks9FbC0=",
+            cover: "https://cdn.pixabay.com/photo/2014/12/21/23/39/chair-575770_1280.png",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
             audio: "http://streaming.hotmixradio.fr/hotmixradio-lounge-128.mp3?from=tunein",
@@ -35,7 +35,7 @@ function chillHop() {
         {
             name:"FFH The 90's",
             artist: "90's",
-            cover: "https://media.istockphoto.com/id/472802044/es/vector/cassette-de-cinta-de-mezcla.jpg?s=1024x1024&w=is&k=20&c=naUTAC8uz5y7cAmZEzCWFlSWTu8OG6xiBkWz2LSH5Cs=",
+            cover: "https://cdn.pixabay.com/photo/2013/07/12/18/41/disc-153701_1280.png",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
             audio: "http://mp3.ffh.de/ffhchannels/hq90er.mp3?amsparams=playerid:RTFFHTunein;skey:1581676248",
@@ -55,7 +55,7 @@ function chillHop() {
         {
             name:"Fun Kids",
             artist: "Kids",
-            cover: "https://pixabay.com/es/illustrations/casa-campo-arquitectura-dise%C3%B1o-163526/",
+            cover: "https://cdn.pixabay.com/photo/2012/04/05/01/53/toy-25818_1280.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://listen-funkids.sharp-stream.com/funkids.mp3?device=tunein",
@@ -74,7 +74,7 @@ function chillHop() {
         {
             name:"Soundstorm Relax",
             artist: "Relax",
-            cover: "https://pixabay.com/es/illustrations/ai-generado-pareja-amigos-8219533/",
+            cover: "https://cdn.pixabay.com/photo/2018/03/10/18/40/tea-3214895_1280.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "http://stream.soundstorm-radio.com:8000/stream1",
@@ -83,7 +83,7 @@ function chillHop() {
         {
             name:"Defjay Radio",
             artist: "70's",
-            cover: "https://pixabay.com/es/illustrations/p%C3%A1jaro-animal-flores-vistoso-8416208/",
+            cover: "https://cdn.pixabay.com/photo/2014/04/02/10/13/vinyl-303160_1280.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "http://ice2.somafm.com/seventies-128-mp3",
@@ -93,7 +93,7 @@ function chillHop() {
         {
             name:"1.FM Reggae Trade",
             artist: "Reggae",
-            cover: "https://pixabay.com/es/illustrations/m%C3%BAsica-jamaica-reggae-musical-1440960/",
+            cover: "https://cdn.pixabay.com/photo/2013/07/12/17/01/bob-marley-151687_1280.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "http://strm112.1.fm/reggae_mobile_mp3",
@@ -102,7 +102,7 @@ function chillHop() {
         {
             name:"Bandit Rock",
             artist: "Rock",
-            cover: "https://cdn.pixabay.com/photo/2017/04/09/16/11/guitar-2216068_1280.jpg",
+            cover: "https://cdn.pixabay.com/photo/2020/01/28/05/13/rats-4798948_1280.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "http://fm02-ice.stream.khz.se/fm02_mp3",
@@ -121,7 +121,7 @@ function chillHop() {
         {
             name:"ABC Jazz",
             artist: "Jazz",
-            cover: "https://cdn.pixabay.com/photo/2022/09/24/17/31/abstract-7476913_1280.png",
+            cover: "https://cdn.pixabay.com/photo/2012/04/01/17/54/people-23760_1280.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "http://live-radio02.mediahubaustralia.com/JAZW/mp3/",
@@ -133,7 +133,7 @@ function chillHop() {
             cover: "https://cdn.pixabay.com/photo/2013/07/12/15/49/landscape-150382_1280.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://s1-webradio.antenne.de/hits-fuer-kids/stream/mp3?aw_0_1st.playerid=tunein.com",
+            audio: "https://cdn.pixabay.com/photo/2019/11/28/17/53/jaws-4659701_1280.png",
             active: false,
         },
 
@@ -155,7 +155,7 @@ function chillHop() {
      {
     name: "Backtorave",
     artist: "Breakbeat",
-    cover: "https://cdn.pixabay.com/photo/2018/09/25/18/52/party-3702833_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2012/04/13/13/23/disc-32390_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://radiospromo.com/listen/tracksaudio.com_-_old_school/radio.mp3", 
@@ -202,7 +202,7 @@ function chillHop() {
 {
     name: "TL_Hardcore",
     artist: "Hardcore",
-    cover: "https://cdn.pixabay.com/photo/2017/11/12/16/09/vortex-2942927_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2013/07/13/11/42/cd-158501_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://stream.technolovers.fm/hardcore", 
@@ -212,7 +212,7 @@ function chillHop() {
 {
     name: "Anima Amoris",
     artist: "Gabber",
-    cover: "https://cdn.pixabay.com/photo/2017/11/12/16/02/future-2942885_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2014/04/02/10/51/disco-304764_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://amoris.sknt.ru/breakbeat", 
@@ -221,16 +221,6 @@ function chillHop() {
 
 
 
-
-{
-    name:"Tekno Radio",
-    artist: "Free Tekno/Techno",
-    cover: "https://cdn.pixabay.com/photo/2017/10/22/14/36/technoid-2877987_1280.jpg", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://player01.teknoradio.org:9000/128kbps.mp3", 
-    active: false,
-},
 
         
 
@@ -253,7 +243,7 @@ function chillHop() {
 {
     name: "Mabu Beatz Minimal",
     artist: "Techno Minimal",
-    cover: "https://cdn.pixabay.com/photo/2016/07/13/16/08/block-1514850_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2022/07/02/02/46/badge-7296525_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://audio.mabu-beatz-radio.com:8003/minimal", 
@@ -277,7 +267,7 @@ function chillHop() {
 {
     name: "MixLive",
     artist: "Minimal Depp-Tech",
-    cover: "https://cdn.pixabay.com/photo/2017/06/02/07/24/binary-2365561_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2020/06/14/02/57/ball-5296374_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://listen.openstream.co/7031/audio", 
@@ -291,7 +281,7 @@ function chillHop() {
  {
     name: "Chill Lounge Radio",
     artist: "Chillout",
-    cover: "https://cdn.pixabay.com/photo/2018/09/27/03/56/phronesis-3706157_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2019/05/11/07/23/mandala-4195224_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "http://streaming.radionomy.com/ChillLoungeRadio", 
@@ -303,7 +293,7 @@ function chillHop() {
 {
     name: "Nordic Chillout Radio",
     artist: "Chillout",
-    cover: "https://cdn.pixabay.com/photo/2024/04/05/05/17/beach-8676561_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2019/05/12/20/11/mountains-4199004_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://listen.radioking.com/radio/672094/stream/736489", 
@@ -314,7 +304,7 @@ function chillHop() {
 {
     name: "Chillout Lounge",
     artist: "Spiritual/Relaxing",
-    cover: "https://cdn.pixabay.com/photo/2021/12/06/02/56/awareness-6849140_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2024/04/19/22/25/man-8707406_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://ec2.yesstreaming.net:4260/;?type=mp3", 
@@ -335,7 +325,7 @@ function chillHop() {
 {
     name: "Chillout Beats",
     artist: "Lounge",
-    cover: "https://cdn.pixabay.com/photo/2024/06/18/17/24/chic-blonde-woman-8838452_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2021/11/26/10/12/groove-box-6825550_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://ilm.stream35.radiohost.de/ilm-ichillout_beats_mp3-192?_art=dD0xNzM0NDM2NjU0JmQ9ZTgzZWI5ZDg4ZGRhOGY2MTA1ZDU", 
@@ -348,7 +338,7 @@ function chillHop() {
 {
     name: "Chillout Croze",
     artist: "Techno",
-    cover: "https://cdn.pixabay.com/photo/2021/02/03/18/58/whale-5978927_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2021/08/31/17/21/mandala-6589580_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "http://streams.crooze.fm:8006/MP3", 
@@ -372,7 +362,7 @@ function chillHop() {
 {
     name: "Thera 101",
     artist: "Relax/Spiritual",
-    cover: "https://cdn.pixabay.com/photo/2015/06/04/08/53/binary-797269_1280.jpg", 
+    cover: "https://cdn.pixabay.com/photo/2020/07/02/04/28/mandala-5361687_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://ec4.yesstreaming.net:1900/stream", 
@@ -385,7 +375,7 @@ function chillHop() {
 {
 name: "Christian Industrial Radio",
 artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2015/06/20/00/11/bible-815432_1280.png",
+cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "https://christianindustrial.net/listen/radio/radio.mp3", 
@@ -394,16 +384,6 @@ active: false,
 
 
 
-
-{
-name: "PRUEBA",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2015/06/20/00/11/bible-815432_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://164.68.122.137:8061/;", 
-active: false,
-},
 
 
 
