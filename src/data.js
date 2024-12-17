@@ -127,15 +127,7 @@ function chillHop() {
             audio: "http://live-radio02.mediahubaustralia.com/JAZW/mp3/",
             active: false,
         },
-        {
-            name:"Hits for Kids",
-            artist: "Kids",
-            cover: "https://cdn.pixabay.com/photo/2013/07/12/15/49/landscape-150382_1280.png",
-            id: uuidv4(),
-            color: ["#008781", "#cfc08c"],
-            audio: "https://cdn.pixabay.com/photo/2019/11/28/17/53/jaws-4659701_1280.png",
-            active: false,
-        },
+       
 
 
         {
