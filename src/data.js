@@ -29,7 +29,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: " http://streaming.hotmixradio.fr/hotmixradio-lounge-128.mp3?from=tunein",
+            audio: "http://streaming.hotmixradio.fr/hotmixradio-lounge-128.mp3?from=tunein",
             active: false,
         },
         {
@@ -219,6 +219,149 @@ function chillHop() {
 },
 
 
+{
+    name: "TL_Hardcore",
+    artist: "Gabber",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://stream.technolovers.fm/hardcore", 
+    active: false,
+},
+
+
+{
+    name: "Hardcore KV3",
+    artist: "Happy Hardcore",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://dinetmedia.ru:8000/live", 
+    active: false,
+},
+
+
+
+
+
+        
+
+        
+{
+    name: "Party Vibe Radio",
+    artist: "Drumbass & Breakbeat",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://www.partyviberadio.com:8004/stream2", 
+    active: false,
+},
+
+
+{
+    name: "BadBeatRadio",
+    artist: "Break Beat",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://misato.ru-hoster.com:8061/badbeatradio", 
+    active: false,
+},
+
+
+
+{
+    name: "Anima Amoris",
+    artist: "Gabber",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://amoris.sknt.ru/breakbeat", 
+    active: false,
+},
+
+
+
+
+{
+    name: "Mabu Beatz Minimal",
+    artist: "Techno Minimal",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://audio.mabu-beatz-radio.com:8003/minimal", 
+    active: false,
+},
+
+
+{
+    name: "Minimal Radio",
+    artist: "Techno Minimal",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://azurafallback.de:8010/320.mp3", 
+    active: false,
+},
+
+{
+    name: "radio.lclhst",
+    artist: "Minimal Electro",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://95.211.222.118:1337/", 
+    active: false,
+},
+
+
+{
+    name: "ToXors",
+    artist: "Hard Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://95.216.245.239:8000/;", 
+    active: false,
+},
+
+
+        
+{
+    name: "sonus Fm",
+    artist: "Minimal Tech House",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://www.sonus.fm:8000/", 
+    active: false,
+},
+{
+    name: "MixLive",
+    artist: "Minimal Depp-Tech",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "https://listen.openstream.co/7031/audio", 
+    active: false,
+},
+{
+    name: "MixLive 2",
+    artist: "Minimal-Techno",
+    cover: "https://breakpirates.com/images/logo.png", 
+    id: uuidv4(),
+    color: ["#F24933", "#F9B437"],
+    audio: "http://2.58.194.54:8858/stream", 
+    active: false,
+},
+
+        
+
+
+
+
+        
+
  {
     name: "Chill Lounge Radio",
     artist: "Chillout",
@@ -232,44 +375,44 @@ function chillHop() {
         
         
 {
-    name: "Ambient Radio",
+    name: "Nordic Chillout Radio",
     artist: "Chillout",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://uk2.internet-radio.com:8171/", 
+    audio: "https://listen.radioking.com/radio/672094/stream/736489", 
     active: false,
 },
 
 
 {
-    name: "Ambiesphere",
+    name: "Chillout Lounge",
     artist: "Spiritual/Relaxing",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://uk5.internet-radio.com:8347/", 
+    audio: "https://ec2.yesstreaming.net:4260/;?type=mp3", 
     active: false,
 },
 
         
 {
-    name: "Pop Lounge Cafe",
+    name: "Absolute Chillout",
     artist: "Chillout && Lounge",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://listen.smoothjazz.global:8080/lounge.mp3", 
+    audio: "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3", 
     active: false,
 },
 
 {
-    name: "Chill Out Zone",
+    name: "Chillout Beats",
     artist: "Lounge",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "https://chilloutzone.stream.laut.fm/chilloutzone?pl=asx&t302=2024-12-16_22-55-07&uuid=44eee177-e9cf-44bf-82fc-6d8c557dd43b", 
+    audio: "https://ilm.stream35.radiohost.de/ilm-ichillout_beats_mp3-192?_art=dD0xNzM0NDM2NjU0JmQ9ZTgzZWI5ZDg4ZGRhOGY2MTA1ZDU", 
     active: false,
 },
 
@@ -280,64 +423,61 @@ function chillHop() {
 
 
 {
-    name: "Ibiza Sonica Radio:",
-    artist: "Techno",
+    name: "Party Vibe Radio",
+    artist: "Chillout",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://ibizasonica.stream.flumotion.com/ibizasonica.mp3", 
+    audio: "http://www.partyviberadio.com:8056/stream2", 
     active: false,
 },
 
 {
-    name: "Pure Techno Radio",
+    name: "Chillout Croze",
     artist: "Techno",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://stream.laut.fm/pure-techno", 
+    audio: "http://streams.crooze.fm:8006/MP3", 
     active: false,
 },
 
 
 {
-    name: "Level-1 Radio",
-    artist: "Techno",
+    name: "psyradio FM",
+    artist: "Chillout goa ambient",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://uk2.internet-radio.com:30075/stream", 
+    audio: "http://streamer.psyradio.org:8020/stream", 
     active: false,
 },
 
 {
-    name: "Move da House",
-    artist: "Techno",
+    name: "KlubRadio",
+    artist: "Chillout",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://uk7.internet-radio.com:8000/", 
+    audio: "http://streams.fluxfm.de/klubradio/mp3-320", 
     active: false,
 },
 {
-    name: "Dance Uk Radio",
-    artist: "Techno",
+    name: "anotherplanet FM",
+    artist: "Ambient Chillout",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://uk2.internet-radio.com:8024/", 
+    audio: "http://188.227.57.91:8000/stream.mp3", 
     active: false,
 },
-
-
-
 
 
 
 
 {
 name: "Christian Industrial Radio",
-artist: "Christian Music",
+artist: "Christian Music Industrial",
 cover: "https://example.com/industrial_cover.jpg",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
