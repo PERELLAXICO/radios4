@@ -12,15 +12,7 @@ function chillHop() {
             audio: "http://pureplay.cdnstream1.com/6011_128.mp3",
             active: true,
         },
-        {
-            name:"Soundstorm - Relax Radio",
-            artist: "Lounge",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
-            id: uuidv4(),
-            color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=22794",
-            active: false,
-        },
+        
         {
             name:"SomaFM Left Coast 70's",
             artist: "70's",
@@ -30,15 +22,7 @@ function chillHop() {
             audio: "http://ice2.somafm.com/seventies-128-mp3",
             active: false,
         },
-        {
-            name:"Hotmixradio 80",
-            artist: "80's",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
-            id: uuidv4(),
-            color: ["#008781", "#cfc08c"],
-            audio: "http://streaming.hotmixradio.fm/hotmixradio-80-128.mp3?from=tunein",
-            active: false,
-        },
+       
         {
             name:"Hotmixradio Lounge",
             artist: "Lounge",
@@ -57,24 +41,8 @@ function chillHop() {
             audio: "http://mp3.ffh.de/ffhchannels/hq90er.mp3?amsparams=playerid:RTFFHTunein;skey:1581676248",
             active: false,
         },
-        {
-            name:"Sunshine Live",
-            artist: "Electronic",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
-            id: uuidv4(),
-            color: ["#191516", "#82698E"],
-            audio: "http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq?sABC=5r46783o%230%231o70r21o79929956s30p83402120q5q4%23gharva&amsparams=playerid:tunein;skey:1581676603",
-            active: false,
-        },
-        {
-            name:"Indie 88",
-            artist: "Indie",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
-            id: uuidv4(),
-            color: ["#7BC8DD", "#D64A59"],
-            audio: "http://cob-ais.leanstream.co/CINDFM-MP3?args=tunein_01",
-            active: false,
-        },
+      
+     
         {
             name:"That Christmas Channel",
             artist: "Christmas",
@@ -93,15 +61,7 @@ function chillHop() {
             audio: "https://listen-funkids.sharp-stream.com/funkids.mp3?device=tunein",
             active: false,
         },
-        {
-            name:"Costa del Mar",
-            artist: "Lounge",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
-            id: uuidv4(),
-            color: ["#1D2731", "#F17E76"],
-            audio: "http://stream.cdm-chillout.com:8020/stream-mp3-Chill",
-            active: false,
-        },
+      
         {
             name:"La Z Latina",
             artist: "Latin Music",
@@ -129,15 +89,7 @@ function chillHop() {
             audio: "http://ice2.somafm.com/seventies-128-mp3",
             active: false,
         },
-        {
-            name:"R&B",
-            artist: "80's",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
-            id: uuidv4(),
-            color: ["#008781", "#cfc08c"],
-            audio: "http://pool.defjay.com/DEFJAY.mp3",
-            active: false,
-        },
+       
         {
             name:"1.FM Reggae Trade",
             artist: "Reggae",
@@ -165,15 +117,7 @@ function chillHop() {
             audio: "http://cms.stream.publicradio.org/cms.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1582304573&aw_0_1st.platform=tunein",
             active: false,
         },
-        {
-            name:"Amazing Blues",
-            artist: "Blues",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
-            id: uuidv4(),
-            color: ["#D7B0D5", "#CBDFE0"],
-            audio: "http://mainstream.amazingradios.com:8000/blues128",
-            active: false,
-        },
+     
         {
             name:"ABC Jazz",
             artist: "Jazz",
@@ -196,70 +140,70 @@ function chillHop() {
 
 
 {
-    name: "Break Pirates",
+    name: "Techno FM",
     artist: "Breakbeat Old School",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://bpstream.hostco.de:3000/", 
+    audio: "http://stream.kiss-fm.nl:9502/KissFM_320HQ", 
     active: false,
 },
 
 
 
      {
-    name: "24/7 Drum&Bas",
-    artist: "Drum & Bass",
+    name: "Backtorave",
+    artist: "Breakbeat",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://radio.drums.ro:8000/", 
+    audio: "https://radiospromo.com/listen/tracksaudio.com_-_old_school/radio.mp3", 
     active: false,
 },
 
 
 {
-    name: "Classic R&B",
-    artist: "Hip Hop",
+    name: "Techno FM 2 ",
+    artist: "Techno",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://listen.livestreamingservice.com/181-classicrnb_128k.mp3", 
+    audio: "https://stream.techno.fm/radio1-320k.mp3", 
     active: false,
 },
 
 
    {
-    name: "Clssic Hip Hop",
+    name: "Techno rave FM",
     artist: "Hip Hop",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://listen.livestreamingservice.com/181-oldschool_128k.mp3", 
+    audio: "https://regiocast.streamabc.net/regc-80s80stechno-mp3-192-6907852", 
     active: false,
 },
      
 
 
 {
-    name: "Rap undergorund",
+    name: "Tech house ",
     artist: "Hip Hop",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://listen.livestreamingservice.com/181-thebox_128k.mp3", 
+    audio: "http://176.9.86.211:8053/stream", 
     active: false,
 },
 
 
         
 {
-    name: "Nautic Radio",
+    name: "Techno Detroit",
     artist: "Breakcore",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://83.137.145.141:14280/", 
+    audio: "http://radio.dutchdelite.nl:8000/techno", 
     active: false,
 },
 
