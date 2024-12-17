@@ -139,16 +139,6 @@ function chillHop() {
 
 
 
-{
-    name: "Techno FM",
-    artist: "Breakbeat Old School",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://stream.kiss-fm.nl:9502/KissFM_320HQ", 
-    active: false,
-},
-
 
 
      {
@@ -163,7 +153,7 @@ function chillHop() {
 
 
 {
-    name: "Techno FM 2 ",
+    name: "Techno FM",
     artist: "Techno",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
@@ -175,7 +165,7 @@ function chillHop() {
 
    {
     name: "Techno rave FM",
-    artist: "Hip Hop",
+    artist: "Techno/Breakbeat",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
@@ -185,28 +175,7 @@ function chillHop() {
      
 
 
-{
-    name: "Tech house ",
-    artist: "Hip Hop",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://176.9.86.211:8053/stream", 
-    active: false,
-},
-
-
         
-{
-    name: "Techno Detroit",
-    artist: "Breakcore",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://radio.dutchdelite.nl:8000/techno", 
-    active: false,
-},
-
 
 {
     name: "TL_Gabber",
@@ -221,7 +190,7 @@ function chillHop() {
 
 {
     name: "TL_Hardcore",
-    artist: "Gabber",
+    artist: "Hardcore",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
@@ -229,33 +198,17 @@ function chillHop() {
     active: false,
 },
 
-
 {
-    name: "Hardcore KV3",
-    artist: "Happy Hardcore",
+    name: "Anima Amoris",
+    artist: "Gabber",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://dinetmedia.ru:8000/live", 
+    audio: "https://amoris.sknt.ru/breakbeat", 
     active: false,
 },
 
 
-
-
-
-        
-
-        
-{
-    name: "Party Vibe Radio",
-    artist: "Drumbass & Breakbeat",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://www.partyviberadio.com:8004/stream2", 
-    active: false,
-},
 
 
 {
@@ -270,15 +223,6 @@ function chillHop() {
 
 
 
-{
-    name: "Anima Amoris",
-    artist: "Gabber",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "https://amoris.sknt.ru/breakbeat", 
-    active: false,
-},
 
 
 
@@ -304,38 +248,9 @@ function chillHop() {
     active: false,
 },
 
-{
-    name: "radio.lclhst",
-    artist: "Minimal Electro",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://95.211.222.118:1337/", 
-    active: false,
-},
 
 
-{
-    name: "ToXors",
-    artist: "Hard Techno",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://95.216.245.239:8000/;", 
-    active: false,
-},
-
-
-        
-{
-    name: "sonus Fm",
-    artist: "Minimal Tech House",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://www.sonus.fm:8000/", 
-    active: false,
-},
+    
 {
     name: "MixLive",
     artist: "Minimal Depp-Tech",
@@ -345,22 +260,10 @@ function chillHop() {
     audio: "https://listen.openstream.co/7031/audio", 
     active: false,
 },
-{
-    name: "MixLive 2",
-    artist: "Minimal-Techno",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://2.58.194.54:8858/stream", 
-    active: false,
-},
-
         
 
 
-
-
-        
+    
 
  {
     name: "Chill Lounge Radio",
@@ -419,19 +322,6 @@ function chillHop() {
 
 
 
-
-
-
-{
-    name: "Party Vibe Radio",
-    artist: "Chillout",
-    cover: "https://breakpirates.com/images/logo.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "http://www.partyviberadio.com:8056/stream2", 
-    active: false,
-},
-
 {
     name: "Chillout Croze",
     artist: "Techno",
@@ -442,17 +332,20 @@ function chillHop() {
     active: false,
 },
 
-
+        
 {
-    name: "psyradio FM",
-    artist: "Chillout goa ambient",
+    name: "Goa FM",
+    artist: "psytrance/ambient",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://streamer.psyradio.org:8020/stream", 
+    audio: "http://online.radiorecord.com.ua:8101/goa", 
     active: false,
 },
 
+
+
+        
 {
     name: "KlubRadio",
     artist: "Chillout",
@@ -462,13 +355,14 @@ function chillHop() {
     audio: "http://streams.fluxfm.de/klubradio/mp3-320", 
     active: false,
 },
+        
 {
-    name: "anotherplanet FM",
-    artist: "Ambient Chillout",
+    name: "Thera 101",
+    artist: "Relax/Spiritual",
     cover: "https://breakpirates.com/images/logo.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "http://188.227.57.91:8000/stream.mp3", 
+    audio: "https://ec4.yesstreaming.net:1900/stream", 
     active: false,
 },
 
