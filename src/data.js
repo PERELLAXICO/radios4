@@ -390,7 +390,7 @@ artist: "BB",
 cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
-audio: "http://bpstream.hostco.de:3000/", 
+audio: "http://bpstream.hostco.de:3000/;", 
 active: false,
 },
 
