@@ -382,7 +382,7 @@ artist: "BB",
 cover: "https://cdn.pixabay.com/photo/2016/03/05/06/24/colorful-1237266_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
-audio: "https://cors-anywhere.herokuapp.com/http://bpstream.hostco.de:3000/", 
+audio: "https://cors-anywhere.herokuapp.com/http://bpstream.hostco.de:3000/",
 active: false,
 },
 
@@ -400,6 +400,13 @@ active: false,
 
         
     ];
+
+const audioElement = new Audio(chillHop[0].audio);
+audioElement.play();
+
+
+
+    
 }
 
 export default chillHop;
