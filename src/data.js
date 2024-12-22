@@ -176,18 +176,9 @@ function chillHop() {
     active: false,
 },
      
-{
-name: "Techno radio",
-artist: "Techno",
-cover: "https://cdn.pixabay.com/photo/2024/02/01/23/57/priest-8546968_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://eilo.org:8000/techno", 
-active: false,
-},
 
 
-        
+   
 
 {
     name: "TL_Gabber",
@@ -236,7 +227,7 @@ active: false,
 {
 name: "Jungle ",
 artist: "Drum&bass/Jungle",
-cover: "https://cdn.pixabay.com/photo/2024/01/15/10/54/cat-8509950_1280.png",
+cover: "https://cdn.pixabay.com/photo/2024/02/01/23/57/priest-8546968_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "http://live.radiorecord.com.ua:8101/jungle", 
@@ -413,7 +404,7 @@ active: false,
 {
 name: "PsyloGardenStudio4",
 artist: "Idm",
-cover: "https://trekmovie.com/wp-content/uploads/bsglbch1.jpg",
+cover: "https://cdn.pixabay.com/photo/2020/11/23/13/16/coffee-5769721_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "http://amoris.sknt.ru:80/idm", 
