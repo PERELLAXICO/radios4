@@ -176,6 +176,15 @@ function chillHop() {
     active: false,
 },
      
+{
+name: "Techno radio",
+artist: "Techno",
+cover: "https://cdn.pixabay.com/photo/2024/02/01/23/57/priest-8546968_1280.png",
+id: uuidv4(),
+color: ["#FFFFFF", "#FF0000"],
+audio: "http://hosting.studioradiomedia.fr:1510/stream", 
+active: false,
+},
 
 
         
@@ -203,12 +212,35 @@ function chillHop() {
 
 {
     name: "Anima Amoris",
-    artist: "Gabber",
-    cover: "https://cdn.pixabay.com/photo/2014/04/02/10/51/disco-304764_1280.png", 
+    artist: "Gabber/Breakbeat",
+    cover: "https://cdn.pixabay.com/photo/2023/08/26/04/11/turtle-8214091_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
     audio: "https://amoris.sknt.ru/breakbeat", 
     active: false,
+},
+
+
+  {
+name: "Anima Moris ",
+artist: "Breakcore/IDM",
+cover: "https://cdn.pixabay.com/photo/2024/07/11/19/58/midi-8889006_1280.png",
+id: uuidv4(),
+color: ["#FFFFFF", "#FF0000"],
+audio: "http://amoris.sknt.ru:80/breakcore", 
+active: false,
+},
+      
+
+
+{
+name: "Jungle ",
+artist: "Drum&bass/Jungle",
+cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
+id: uuidv4(),
+color: ["#FFFFFF", "#FF0000"],
+audio: "http://live.radiorecord.com.ua:8101/jungle", 
+active: false,
 },
 
 
@@ -234,7 +266,7 @@ function chillHop() {
 
 {
     name: "Mabu Beatz Minimal",
-    artist: "Techno Minimal",
+    artist: "Minimal",
     cover: "https://cdn.pixabay.com/photo/2022/07/02/02/46/badge-7296525_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
@@ -367,7 +399,7 @@ function chillHop() {
 {
 name: "Christian Industrial Radio",
 artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
+cover: "https://cdn.pixabay.com/photo/2014/04/02/17/07/bible-308016_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "https://christianindustrial.net/listen/radio/radio.mp3", 
@@ -377,34 +409,11 @@ active: false,
 
 
 
-{
-name: "Christian 1",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://uk5.internet-radio.com:8185/", 
-active: false,
-},
-
-
-
 
 {
-name: "Christian 2 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://lynx.prostreaming.net:8103/stream", 
-active: false,
-},
-
-
-{
-name: "Christian 3",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
+name: "PsyloGardenStudio4",
+artist: "Idm",
+cover: "https://trekmovie.com/wp-content/uploads/bsglbch1.jpg",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "http://amoris.sknt.ru:80/idm", 
@@ -415,9 +424,9 @@ active: false,
 
 
 {
-name: "Christian 4 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
+name: "Ancestrus",
+artist: "Idm/Ambient",
+cover: "https://cdn.pixabay.com/photo/2016/04/01/09/40/ancestral-1299497_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "http://c5.radioboss.fm:8149/live", 
@@ -425,22 +434,12 @@ active: false,
 },
 
 
-{
-name: "Christian 5 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "https://ec2.yesstreaming.net:4260/;?type=mp3", 
-active: false,
-},
-
 
 
 {
-name: "Christian 6 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
+name: "THE CHILLx Lounge",
+artist: "Chillout",
+cover: "https://cdn.pixabay.com/photo/2024/05/28/10/35/ai-generated-8793495_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "https://kathy.torontocast.com:1815/stream", 
@@ -448,22 +447,13 @@ active: false,
 },
 
 
-{
-name: "Christian 7 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://freeflow.str3am.fr:8207/stream", 
-active: false,
-},
 
 
 
 {
-name: "Christian 8 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
+name: "Stella Radio ",
+artist: "Chill Hop/Lofi",
+cover: "https://cdn.pixabay.com/photo/2022/04/12/21/25/sea-7128966_1280.png",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
 audio: "http://audio.mabu-beatz-radio.com:8002/hardtech", 
@@ -472,66 +462,10 @@ active: false,
 
 
 
-{
-name: "Christian 9",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://hosting.studioradiomedia.fr:1510/stream", 
-active: false,
-},
 
 
-{
-name: "Christian 10",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://eilo.org:8000/techno", 
-active: false,
-},
-
-{
-name: "Christian 11 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "https://audio.mabu-beatz-radio.com:8003/techno", 
-active: false,
-},
 
 
-{
-name: "Christian 12 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://live.radiorecord.com.ua:8101/jungle", 
-active: false,
-},
-
-{
-name: "Christian 13 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://www.partyviberadio.com:8004/stream2", 
-active: false,
-},
-{
-name: "Christian 14 ",
-artist: "Christian Music Industrial",
-cover: "https://cdn.pixabay.com/photo/2018/02/19/20/18/art-3166126_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://amoris.sknt.ru:80/breakcore", 
-active: false,
-},
 
 
         
