@@ -201,15 +201,7 @@ function chillHop() {
     active: false,
 },
 
-{
-    name: "Anima Amoris",
-    artist: "Gabber/Breakbeat",
-    cover: "https://cdn.pixabay.com/photo/2023/08/26/04/11/turtle-8214091_1280.png", 
-    id: uuidv4(),
-    color: ["#F24933", "#F9B437"],
-    audio: "https://amoris.sknt.ru/breakbeat", 
-    active: false,
-},
+
 
 
   {
@@ -224,20 +216,8 @@ active: false,
       
 
 
-{
-name: "Jungle ",
-artist: "Drum&bass/Jungle",
-cover: "https://cdn.pixabay.com/photo/2024/02/01/23/57/priest-8546968_1280.png",
-id: uuidv4(),
-color: ["#FFFFFF", "#FF0000"],
-audio: "http://live.radiorecord.com.ua:8101/jungle", 
-active: false,
-},
 
-
-
-
-        
+   
 
 {
     name: "BadBeatRadio",
@@ -352,7 +332,7 @@ active: false,
 
 {
     name: "Chillout Croze",
-    artist: "Techno",
+    artist: "Chillout",
     cover: "https://cdn.pixabay.com/photo/2021/08/31/17/21/mandala-6589580_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
@@ -375,12 +355,12 @@ active: false,
 },
         
 {
-    name: "Thera 101",
-    artist: "Relax/Spiritual",
-    cover: "https://cdn.pixabay.com/photo/2020/07/02/04/28/mandala-5361687_1280.png", 
+    name: "Anima Moris",
+    artist: "Trip-Hop",
+    cover: "https://cdn.pixabay.com/photo/2025/05/24/00/16/building-9618662_1280.png", 
     id: uuidv4(),
     color: ["#F24933", "#F9B437"],
-    audio: "https://ec4.yesstreaming.net:1900/stream", 
+    audio: "https://amoris.sknt.ru/triphop.mp3", 
     active: false,
 },
 
