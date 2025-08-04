@@ -208,7 +208,7 @@ artist: "Freetekno/Hardcore",
 cover: "https://cdn.pixabay.com/photo/2016/02/05/12/14/abstract-1180837_1280.jpg",
 id: uuidv4(),
 color: ["#FFFFFF", "#FF0000"],
-audio: "http://player01.teknoradio.org:9000/128kbps.mp3", 
+audio: "http://164.68.122.137:8061/;",
 active: false,
 },
      
